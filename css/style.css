@@ -1,0 +1,91 @@
+body {
+  background-color: #fffff0;
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  width: 50px;
+}
+
+.Subparagraf {
+  color: navy;
+  font-weight: 800;
+}
+
+.navbar-toggler {
+  background-color: black; /* Latar belakang hitam */
+  border: none; /* Tanpa batas */
+}
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 30px;
+  height: 3px;
+  position: relative;
+}
+.navbar-toggler-icon:before,
+.navbar-toggler-icon:after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 3px;
+  background-color: silver;
+}
+.navbar-toggler-icon:before {
+  top: -10px; /* Posisi garis atas */
+}
+.navbar-toggler-icon:after {
+  top: 10px; /* Posisi garis bawah */
+}
+.footer {
+  margin-top: 40px;
+}
+.section2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.section2botol {
+  width: 120px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.botolgambar {
+  text-align: center;
+}
+
+.button1 {
+  border-radius: 90px;
+}
+
+.section3 {
+  margin-top: 100px;
+  background-color: #f0f8ff;
+}
+
+.header2 {
+  text-align: center;
+}
+
+.botol1 {
+  width: 90px;
+}
+
+.section2word {
+  text-align: left;
+}
+
+.section4 {
+  margin-top: 60px;
+}
+
+.Section4gambar {
+  width: 80px;
+}
+
+.Section4gambar1 {
+  width: 140px;
+}
+.section5 {
+  background-color: #f0f8ff;
+}
