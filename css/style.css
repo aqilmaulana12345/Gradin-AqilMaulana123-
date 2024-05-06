@@ -13,8 +13,8 @@ body {
 }
 
 .navbar-toggler {
-  background-color: black; /* Latar belakang hitam */
-  border: none; /* Tanpa batas */
+  background-color: orange;
+  border: none; 
 }
 .navbar-toggler-icon {
   display: inline-block;
@@ -28,7 +28,7 @@ body {
   position: absolute;
   width: 30px;
   height: 3px;
-  background-color: silver;
+  background-color: white;
 }
 .navbar-toggler-icon:before {
   top: -10px; /* Posisi garis atas */
